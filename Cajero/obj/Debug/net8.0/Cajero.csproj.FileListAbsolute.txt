@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.sourcelink.json
