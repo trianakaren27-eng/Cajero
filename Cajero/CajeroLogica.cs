@@ -73,7 +73,7 @@ namespace Cajero
             usuarioActual.Saldo += monto;
             usuarioActual.RegistrarMovimiento($"Depósito de {monto:C}");
             GuardarCambios();
-            GuardarMovimiento($"\n-------------------------\n Retiro realizado: {monto:C}\n-------------------------\n");
+            GuardarMovimiento($"\n-------------------------\n Deposito realizado de: {monto:C}\n-------------------------\n");
 
         }
 

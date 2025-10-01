@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\bin\Debug\net8.0\Cajero.exe
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\bin\Debug\net8.0\Cajero.deps.json
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\bin\Debug\net8.0\Cajero.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\bin\Debug\net8.0\Cajero.dll
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\bin\Debug\net8.0\Cajero.pdb
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.sourcelink.json
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.dll
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\refint\Cajero.dll
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.pdb
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\Cajero.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyectos Daniela\Cajero\Cajero\obj\Debug\net8.0\ref\Cajero.dll
