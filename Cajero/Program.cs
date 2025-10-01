@@ -14,7 +14,7 @@ namespace Cajero
             //Cajero es:creacion del objeto de la clase cajero para llamar los metodos
             //Cajero es el nombre de la clase y cajero es el nombre del objeto 
 
-            Cajero cajero = new Cajero();
+            CajeroLogica cajero = new CajeroLogica();
             int opcion = 0;
 
             //do:haga algoritmo mientras se cumpla la condicion del while--minimetodo bucle
@@ -125,7 +125,7 @@ namespace Cajero
         /// <summary>
         /// Submenú de operaciones del cajero --> metodo de clase porque se encuentra en la misma clase donde se llama !!!!!
         /// </summary>
-        static void MostrarMenuCajero(Cajero cajero)
+        static void MostrarMenuCajero(CajeroLogica cajero)
         {
             int opc;
             do
