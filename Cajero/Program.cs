@@ -25,7 +25,7 @@ namespace Cajero
                 Console.WriteLine("1. Crear usuario");
                 Console.WriteLine("2. Iniciar sesion");
                 Console.WriteLine("3. Salir");
-                Console.Write("Selecciona una opcion");
+                Console.Write("Selecciona una opcion : ");
 
 
                 // si el digito se puede convertir a entero lo asigna a opcion, de lo contrario falla y reinicia el bucle
